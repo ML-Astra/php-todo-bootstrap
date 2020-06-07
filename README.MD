@@ -13,3 +13,6 @@ $sqlpw='';
 ```
 
 ### Project Finished at 06:55 BST 2020-06-07
+
+### Attribution
+Notepad icon made by Smashicons from www.flaticon.com
